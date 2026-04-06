@@ -1,5 +1,7 @@
 # saas-t3-stack
 
+![CI](https://github.com/Shaisolaris/saas-t3-stack/actions/workflows/ci.yml/badge.svg)
+
 T3 Stack SaaS starter with tRPC for end-to-end type safety, Prisma for database access, NextAuth for authentication, and Zod for runtime validation. Features project and task management with CRUD operations, protected procedures, and type-safe API layer.
 
 ## Stack
